@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Arne Bahlo</string>
+	<key>Builder Version</key>
+	<string>10538.46</string>
+	<key>CFBundleDisplayName</key>
+	<string>XKCD Substitutions</string>
+	<key>CFBundleIdentifier</key>
+	<string>me.arne.safari</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Chrome</key>
+	<dict/>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>substitutions.js</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>Make reading the news more fun</string>
+	<key>DeveloperIdentifier</key>
+	<string>AK9NEP7BV6</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+	<key>Website</key>
+	<string>https://github.com/bahlo/xkcd-substitutions</string>
+</dict>
+</plist>

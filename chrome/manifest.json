@@ -1,0 +1,11 @@
+{
+  "name": "XKCD Subsitutions",
+  "version": "1.0.0",
+  "description": "Make reading the news more fun",
+  "content_scripts": [ {
+    "js": [ "substitutions.js" ],
+    "matches": [ "<all_urls>" ]
+  }],
+  "manifest_version": 2
+}
+
