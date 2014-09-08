@@ -62,6 +62,12 @@ substitute = (node) ->
     ['COULD NOT BE REACHED FOR COMMENT', 'IS GUILTY AND EVERYONE KNOWS IT']
     ['Could Not Be Reached For Comment', 'Is Guilty And Everyone Knows It']
     ['could not be reached for comment', 'is guilty and everyone knows it']
+    ['Force', 'Horse']
+    ['FORCE', 'HORSE']
+    ['force', 'horse']
+    ['Forces', 'Horses']
+    ['FORCES', 'HORSES']
+    ['forces', 'horses']
   ]
 
   ignore = ['STYLE', 'SCRIPT', 'NOSCRIPT', 'IFRAME', 'OBJECT', 'INPUT', 'FORM', 'TEXTAREA']
