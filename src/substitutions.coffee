@@ -128,6 +128,10 @@ substitute = (node) ->
     ['Horsepower', 'Tons of horsemeat']
     ['HORSEPOWER', 'TONS OF HORSEMEAT']
     ['horsepower', 'tons of horsemeat']
+    # https://xkcd.com/1004
+    ["Batman", "A man dressed like a bat"]
+    ["BATMAN", "A MAN DRESSED LIKE A BAT"]
+    ["batman", "a man dressed like a bat"]
   ]
 
   ignore = ['STYLE', 'SCRIPT', 'NOSCRIPT', 'IFRAME', 'OBJECT', 'INPUT', 'FORM', 'TEXTAREA']
