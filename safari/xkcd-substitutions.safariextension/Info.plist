@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Arne Bahlo</string>
 	<key>Builder Version</key>
-	<string>10600.1.15</string>
+	<string>11601.3.9</string>
 	<key>CFBundleDisplayName</key>
 	<string>XKCD Substitutions</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +13,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.3</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>Chrome</key>
@@ -31,7 +31,7 @@
 	<key>Description</key>
 	<string>Make reading the news more fun</string>
 	<key>DeveloperIdentifier</key>
-	<string>AK9NEP7BV6</string>
+	<string>0000000000</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
