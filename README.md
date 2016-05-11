@@ -18,3 +18,5 @@ Make reading the news more fun
 ### Substitutions 2
 [![](http://imgs.xkcd.com/comics/substitutions_2.png)](http://xkcd.com/1625 "Within a few minutes, our roads will be full of uncontrollably-swerving cars and our skies full of Amazon delivery dogs.")
 
+### Subsitutions 3
+[![](http://imgs.xkcd.com/comics/substitutions_3.png)](http://xkcd.com/1679 "BREAKING: Channing Tatum and his friends explore haunted city")
